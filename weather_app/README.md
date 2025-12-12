@@ -198,7 +198,7 @@ flutter test
 
 ---
 
-## 🖼 Screenshots 
+##  Screenshots 
 
 
 ![Giao diện ](screenshots/Giaodien.jpg)
