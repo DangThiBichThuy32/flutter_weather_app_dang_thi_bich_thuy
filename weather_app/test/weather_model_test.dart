@@ -44,7 +44,7 @@ void main() {
       expect(weather.mainCondition, 'Clear');
       expect(weather.visibility, 10000);
       expect(weather.cloudiness, 0);
-      // dt 1700000000 chỉ check là DateTime, không cần so chính xác
+ 
       expect(weather.dateTime, isA<DateTime>());
     });
   });
